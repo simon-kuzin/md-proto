@@ -16,7 +16,8 @@
 
 ## Customer Order (Business Object)
 
-**Relationships**|From|Relationship|To|Name|Description|
+**Relationships**
+|From|Relationship|To|Name|Description|
 |---|---|---|---|---|
 |Customer Order|Composition Relationship|[Customer Facing Service Order (Business Object)](#customer-facing-service-order-business-object)|[1..*]||
 
